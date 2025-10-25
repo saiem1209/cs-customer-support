@@ -1,0 +1,92 @@
+[
+  {
+    "id": "#1001",
+    "title": "Broken Link in Help Center",
+    "description": "The link to the 'Troubleshooting' guide in the main Help Center page returns a 404 error.",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "customer": "Noah Clark",
+    "createdAt": "1/25/2024"
+  },
+  {
+    "id": "#1002",
+    "title": "Export Data Missing Columns",
+    "description": "When exporting user data to a CSV file, the 'Last Login Date' column is always missing.",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "customer": "Ava Rodri",
+    "createdAt": "1/26/2024"
+  },
+  {
+    "id": "#1003",
+    "title": "Server Error 500 on Checkout",
+    "description": "Intermittent server error occurs specifically when the user clicks the final 'Place Order' button.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "customer": "William Lewis",
+    "createdAt": "1/27/2024"
+  },
+  {
+    "id": "#1004",
+    "title": "Chat Widget Not Loading",
+    "description": "The customer support chat widget fails to load on Chrome browser version 120.0.6099.200.",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "customer": "Mia Hall",
+    "createdAt": "1/28/2024"
+  },
+  {
+    "id": "#1005",
+    "title": "Filter Functionality Bug",
+    "description": "Filtering products by price range returns items outside the selected maximum price.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "customer": "Oliver King",
+    "createdAt": "1/29/2024"
+  },
+  {
+    "id": "#1006",
+    "title": "Misleading Tooltip Text",
+    "description": "The tooltip text for the 'Analytics' section button provides outdated information about the metrics.",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "customer": "Charlotte Baker",
+    "createdAt": "1/30/2024"
+  },
+  {
+    "id": "#1007",
+    "title": "Mobile Keyboard Overlaps Input Field",
+    "description": "When entering text on a small screen iOS device, the virtual keyboard covers the input field.",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "customer": "Elijah Green",
+    "createdAt": "1/31/2024"
+  },
+  {
+    "id": "#1008",
+    "title": "Incorrect Currency Conversion Rate",
+    "description": "Foreign currency conversion is calculating at an old, incorrect exchange rate.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "customer": "Amelia Carter",
+    "createdAt": "2/1/2024"
+  },
+  {
+    "id": "#1009",
+    "title": "Missing 'Forgot Password' Link",
+    "description": "The link to reset password is no longer visible on the main login screen.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "customer": "Alexander Perez",
+    "createdAt": "2/2/2024"
+  },
+  {
+    "id": "#1010",
+    "title": "Dashboard Layout Shift on Resize",
+    "description": "When resizing the browser window, the main dashboard widgets briefly jump before settling.",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "customer": "Evelyn Scott",
+    "createdAt": "2/3/2024"
+  }
+]
